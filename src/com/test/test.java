@@ -3,7 +3,7 @@ package com.test;
 public class test {
 
 	public static void main(String[] args) {
-		System.out.println("this is test class");
+		System.out.println("this is testing class");
 
 	}
 
